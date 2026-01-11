@@ -1,7 +1,11 @@
-## Hi, I'm Waron Limsakul 👋
+## Hi, I’m Waron 👋
 
-- 🖥️ I've been working on full-stack web development
-- 🔧 I primarily use: Go, TypeScript, JavaScript
-- 🇨 I’m learning C++ and Python at the moment
-- 📫 You can reach me on [wlimsaku@uwaterloo.ca](mailto:wlimsaku@uwaterloo.ca)
-- 🔗 Or you can connect with me on [linkedin](https://www.linkedin.com/in/waron-limsakul-56b684327/)
+CS student / Software Engineer. I try to make computers do things, sometimes correctly.
+
+- Build software and think about performance at inappropriate times
+- Write Go, C++, TypeScript (descending order of comfort; ascending order of how much I hate myself)
+- Currently learning Haskell to feel intellectually superior
+- Care about correctness, fundamentals, and codes that haunt me at 3am
+
+📫 [wlimsaku@uwaterloo.ca](mailto:wlimsaku@uwaterloo.ca) · [poonro@gmail.com](mailto:poonro@gmail.com)
+🔗 [Linkedin](https://www.linkedin.com/in/waron-limsakul-56b684327/)
